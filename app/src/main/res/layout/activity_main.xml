@@ -78,6 +78,7 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         android:text="Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych"
         android:textColor="#808080"
         tools:layout_editor_absoluteX="128dp"
